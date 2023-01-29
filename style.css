@@ -1,0 +1,25 @@
+
+.myDiv1{
+background-color:hsl(137, 95%, 36%);
+text-align:center;
+color:red;} 
+
+#myDiv1{
+background-color:hsl(7, 94%, 46%);
+text-align:left;
+color:blue;}
+
+h2,h3{color:rgb(62, 144, 244);
+font-size: 50px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+}
+body{
+    background-color: rgb(6, 80, 149);
+}
+
+div~p{
+    color: yellowgreen;
+    font-size: 40px;
+}
+
